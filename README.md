@@ -13,7 +13,7 @@ public class ProductOfArray
             {
           product=product*arr[i];
     }
-       System.out.println("product of all the elements of an array:"+product);
+       System.out.println("product of all the elements of appaaa an array:"+product);
           
        }
 }   
